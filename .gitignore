@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+raw_data_intake/
+unified_corporate_database.csv
